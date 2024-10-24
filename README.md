@@ -12,4 +12,4 @@
 
  The beauty of this blend lies in its harmonious balance between consistency and unpredictability, offering both comfort and surprise. Its complexity lingers, leaving a lasting impression that is as delicate as it is profound, like a finely-tuned market analysis that sticks with you long after. There, satisfied now?
 
- [README.md/en]()  ｜  [README.md/zh-cn]()
+ [README.md/en](./assets/README-en.md)  ｜  [README.md/zh-cn](./assets/README-zh-cn.md)
